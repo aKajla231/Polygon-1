@@ -1,4 +1,4 @@
-# FxPortal Project
+# Polygon Project
 
 This is the first project on Polygon-Advance,  I deployed NFTs on the Ethereum Goerli network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
 
@@ -34,15 +34,10 @@ The script will mint the specified number of NFTs and assign them to your addres
 
 ### Approve and Deposit NFTs to Polygon Mumbai
 
-Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge:
-
-```shell
-npx hardhat run scripts/approveDeposit.js --network goerli
-```
-
+Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge.
 ## Authors
 
-Harsh shende
+https://github.com/aKajla231
 
 
 ## License
